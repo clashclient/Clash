@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://github.com/clashclient/Clash" title="Clash官网下载资源分享">
+  <a href="https://github.com/clashclient/Clash" title="Clash 客户端怎么选">
   <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/c2ef8f38-dcfb-4558-90e5-487b3f974be4" />
 
   </a>
-  <h1>Clash官网下载资源分享 (2026年11月更新)</h1>
+  <h1>Clash 客户端怎么选 (2026年11月更新)</h1>
   <p>
-    <b>Clash全平台官网下载资源分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>对比矩阵 + 场景选型，再落到各平台 Releases</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.11-brightgreen.svg" alt="Update">
@@ -18,7 +18,7 @@
 
 [代理雷达](https://github.com/guiforcores/dailileida)：每日追踪 mihomo、sing-box、Xray、V2Ray、Clash 及自研内核的代理客户端：开源项目看 GitHub Star，商店应用看美区 App Store / Google Play 评分数。
 
-本页按 **Clash官网下载资源分享** 整理：**对比矩阵优先**，再按场景落到 Releases；教程以 [clashclient.com](https://clashclient.com/) 为准。日期格式请保持 `YYYY年M月更新` 与 `Update-YYYY.MM`。
+本页按 **Clash 客户端怎么选** 整理：**对比矩阵优先**，再按场景落到 Releases；教程以 [clashclient.com](https://clashclient.com/) 为准。日期格式请保持 `YYYY年M月更新` 与 `Update-YYYY.MM`。
 
 ---
 
