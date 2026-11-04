@@ -18,6 +18,8 @@
 
 [代理雷达](https://github.com/guiforcores/dailileida)：每日追踪 mihomo、sing-box、Xray、V2Ray、Clash 及自研内核的代理客户端：开源项目看 GitHub Star，商店应用看美区 App Store / Google Play 评分数。
 
+[免费节点雷达](https://jiedianleida.com/)：客户端选型之外的节点对照——免费 Clash / V2Ray / SS / Trojan 日更测速，方便先比延迟再下单订阅。
+
 本页按 **Clash 客户端怎么选** 整理：**对比矩阵优先**，再按场景落到 Releases；教程以 [clashclient.com](https://clashclient.com/) 为准。日期格式请保持 `YYYY年M月更新` 与 `Update-YYYY.MM`。
 
 ---
